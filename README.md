@@ -16,6 +16,6 @@ more functionality will be added. Working at the moment to expand the statistica
 tooling to differentiate between stream and block ciphers and so on. If you
 have suggestions of functionality, send them my way. 
 
-Thanks.
+Thanks and enjoy.
 
 Happy Hacker.
